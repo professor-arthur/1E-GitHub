@@ -1,4 +1,4 @@
 # Arthur Calliman Peraro
 
 - Estou estudando no Alura
-- Estou me desenvolvendo em GitHub
+- Estou me desenvolvendo em GitHu
